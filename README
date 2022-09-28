@@ -1,0 +1,8 @@
+This is a simple contract to test how many submessages can be
+dispatched as part of a single transaction without running out of gas.
+
+Here's a TX on the uni-5 testnet where it clocks in 720:
+
+```
+611DE7582D170D299B80B2492AB7711D60BA9EE9A6EFF259E4C7E545D795BBA9
+```
